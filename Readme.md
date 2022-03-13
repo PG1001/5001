@@ -18,3 +18,7 @@ sklearn: 0.23.2
 xgboost: 1.5.2
 
 torch: 1.10.0
+
+#### 1.3 NOTES
+I tried several methods, Random Forest, Decision tree, KNN, xgboost, Neural network.
+Finally, Random Forest got the best score.
