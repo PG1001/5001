@@ -10,7 +10,11 @@ Python 3.8.0
 
 #### 1.2 Packages
 pandas
+
 numpy
+
 sklearn: 0.23.2
+
 xgboost: 1.5.2
+
 torch: 1.10.0
